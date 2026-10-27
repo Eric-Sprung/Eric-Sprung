@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: your-credly-username
+          CREDLY_USER: eric-sprung.fac7fc86
